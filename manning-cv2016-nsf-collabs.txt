@@ -1,0 +1,84 @@
+1;Eneko Agirre;U. Basque Country
+2;Gabor Angeli;Eloquent Labs
+3;Steven Bethard;U. Arizona
+4;Jonathan Berant;Stanford
+5;John Bauer;Vicarious AI
+6;Jason Bolton;Stanford
+7;Samuel Bowman;NYU
+8;Daniel Cer;Stanford
+9;Arun Chaganty;Stanford
+10;Angel Chang;Princeton
+11;Wanxiang Che;Harbin IT
+12;Danqi Chen;Stanford
+13;Pei-Chun Chen;Google
+14;Jason Chuang;U. Washington
+15;Kevin Clark;Stanford
+16;Peter Clark;Allen Institute for AI
+17;Miriam Connor;Google
+18;Timothy Dozat;Stanford
+19;Jenny Finkel;MixPanel
+20;Roy Frostig;Stanford
+21;Milind Ganjoo;Twitter
+22;Jon Gauthier;Stanford
+23;Filip Ginter;U. Turku
+24;Yoav Goldberg;Bar Ilan
+25;Spence Green;Stanford
+26;Raghav Gupta;Stanford
+27;Sonal Gupta;Stanford
+28;Jan Hajic;Prague
+29;Brittany Harding;U. Washington
+30;Katri Haverinen;U. Turku
+31;Jeffrey Heer;U. Washington
+32;Kenneth Heafield;Edinburgh
+33;Daniel Jurafsky;Stanford
+34;Andrej Karpathy;Open AI
+35;Ranjay Krishna;Stanford
+36;Michael Kayser;Stanford
+37;Quoc Le;Google
+38;Anna Lembke;Stanford
+39;Justin Lewis;U. Washington
+40;Fei-Fei Li;Stanford
+41;Percy Liang;Stanford
+42;Ting Liu;Harbin IT
+43;Thang Minh Luong;Google
+44;Diana MacLean;Stanford
+45;Marie-Catherine de Marneffe;Ohio State
+46;David McClosky;IBM
+47;Ryan McDonald;Google
+48;William Monroe;Stanford
+49;Neha Nayak;Google
+50;Julia Neidert;Google
+51;Joakim Nivre;Uppsala
+52;Andrew Ng;Stanford
+53;Jeffrey Pennington;Google
+54;Alex Perelygin;Stanford
+55;Slav Petrov;Google
+56;Hieu Pham;CMU
+57;Christopher Potts;Stanford
+58;Melvin Johnson Premkumar;Stanford
+59;Sampo Pyysalo;Cambridge
+60;Abhinav Rastogi;Stanford
+61;Christopher R\'e;Stanford
+62;Kevin Reschke;Stanford
+63;Manolis Savva;Princeton
+64;Sebastian Schuster;Stanford
+65;Abigail See;Stanford
+66;Natalia Silveira;Apple
+67;Valentin Spitkovsky;Google
+68;Vivek Srikumar;U. Utah
+69;Aju Thalappilllil Scaria;Google
+70;Natalia Silveira;Stanford
+71;Richard Socher;Metamind
+72;Mihai Surdeanu;U. Arizona
+73;Kai Sheng Tai;Stanford
+74;Julie Tibshirani;Palantir
+75;Reut Tsarfaty;Weizmann
+76;Rob Voigt;Stanford
+77;Stefan Wager;Stanford
+78;Mengqiu Wang;Stanford
+79;Sida Wang;Stanford
+80;Keenon Werling;Eloquent Labs
+81;Jean Wu;Apple
+82;Sen Wu;Stanford
+83;Daniel Zeman;Prague
+84;Ce Zhang;Stanford
