@@ -1,0 +1,87 @@
+1;Agirre, Eneko;U. Basque Country
+2;Angeli, Gabor;Eloquent Labs
+4;Berant, Jonathan;Tel Aviv U.
+6;Bolton, Jason;Stanford
+7;Bowman, Samuel;NYU
+9;Chaganty, Arun;Eloquent Inc.
+10;Chang, Angel;Eloquent Inc.
+12;Chen, Danqi;Stanford
+13;Chen, Pei-Chun;Google
+14;Chuang, Jason;Mozilla
+15;Clark, Kevin;Stanford
+16;Clark, Peter;Allen Institute for AI
+18;Dozat, Timothy;Stanford
+22;Gauthier, Jon;MIT
+23;Ginter, Filip;U. Turku
+24;Goldberg, Yoav;Bar Ilan U.
+25;Green, Spence;Stanford
+26;Gupta, Raghav;Stanford
+27;Gupta, Sonal;Facebook
+28;Hajic, Jan;Prague
+29;Harding, Brittany;U. Washington
+30;Haverinen, Katri;U. Turku
+31;Heer, Jeffrey;U. Washington
+32;Heafield, Kenneth;Edinburgh
+33;Jurafsky, Dan;Stanford
+34;Karpathy, Andrej;Tesla
+35;Krishna, Ranjay;Stanford
+36;Kayser, Michael;Apple
+37;Quoc Le;Google
+38;Anna Lembke;Stanford
+39;Lewis, Justin;U. Washington
+40;Li, Fei-Fei;Stanford
+41;Liang, Percy;Stanford
+43;Luong, Thang-Minh;Google
+44;MacLean, Diana;Stanford
+45;de Marneffe, Marie-Catherine;Ohio State
+47;McDonald, Ryan;Google
+48;Monroe, William;Stanford
+49;Nayak, Neha;Google
+50;Neidert, Julia;Google
+51;Nivre, Joakim;Uppsala
+52;Ng, Andrew;Stanford
+53;Pennington, Jeffrey;Google
+55;Petrov, Slav;Google
+56;Pham, Hieu;CMU
+57;Potts, Christopher;Stanford
+58;Premkumar, Melvin Johnson;Stanford
+59;Pyysalo, Sampo;Cambridge
+60;Rastogi, Abhinav;Stanford
+61;Re, Christopher;Stanford
+63;Savva, Manolis;Princeton
+64;Schuster, Sebastian;Stanford
+65;See, Abigail;Stanford
+66;Silveira, Natalia;Apple
+68;Srikumar, Vivek;U. Utah
+71;Socher, Richard;Salesforce
+73;Tai, Kai Sheng;Stanford
+74;Tibshirani, Julie;Elasticsearch
+75;Tsarfaty, Reut;Weizmann
+76;Voigt, Rob;Stanford
+77;Wager, Stefan;Stanford
+78;Wang, Mengqiu;Zero Zero Robotics Inc.
+79;Wang, Sida;Princeton
+80;Werling, Keenon;Eloquent Labs
+81;Wu, Jean;Apple
+82;Wu, Sen;Stanford
+83;Zeman, Daniel;Prague
+84;Zhang, Ce;ETH Zurich
+85;Zhang, Yuhao;Stanford
+86;Ding, Daisy Yi;Stanford
+87;Qian, Tianpei;Stanford
+88;Langlotz, Curt P.;Stanford
+89;Lamm, Matthew;Stanford
+90;Qi, Peng;Stanford
+91;Hudson, Drew A.;Stanford
+92;Eric, Mihail;Stanford
+93;Ginn, Sam;Stanford
+94;Liu, Peter J.;Google
+95;Paranjape, Ashwin Pradeep;Stanford
+96;Zhong, Victor;U. Washington
+97;Krishnan, Lakshmi;Ford Inc.
+98;Charette, Francois;Ford Inc.
+99;Lei, Jinhao;Tsinghua U.
+100;Villemonte de la Clergerie, Eric;Paris 7
+101;Candito, Marie;Paris 7
+102;Sagot, Benoit;Paris 7
+103;Seddah, Djame;Paris 7
